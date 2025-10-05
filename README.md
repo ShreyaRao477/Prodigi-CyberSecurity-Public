@@ -193,7 +193,9 @@ Use only on networks where you have **explicit authorization**. Unauthorized mon
 
 **Created by:** Shreya Rao
 **GitHub:** https://github.com/ShreyaRao477
+
 **LinkedIn:** linkedin.com/in/shreya-rao12
+
 ### **Acknowledgments**
 
 * Pillow (PIL)
