@@ -1,0 +1,512 @@
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56782
+Payload: IP / TCP 192.168.1.104:56782 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56782
+Payload: IP / TCP 192.168.1.104:56782 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:56782...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:56782...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56782
+Payload: IP / TCP 192.168.1.104:56782 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56784
+Payload: IP / TCP 192.168.1.104:56784 > 192.168.220.230:151...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56783
+Payload: IP / TCP 192.168.1.104:56783 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56783
+Payload: IP / TCP 192.168.1.104:56783 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:56783...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:56783...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56783
+Payload: IP / TCP 192.168.1.104:56783 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 54756
+Payload: IP / TCP 192.168.1.104:54756 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:54756...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 54756
+Payload: IP / TCP 192.168.1.104:54756 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56767
+Payload: IP / TCP 192.168.1.104:56767 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56767
+Payload: IP / TCP 192.168.1.104:56767 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:56767...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:56767...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:56767...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:56767...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56767
+Payload: IP / TCP 192.168.1.104:56767 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56784
+Payload: IP / TCP 192.168.1.104:56784 > 192.168.220.230:151...
+Protocol: UDP
+Source IP: 192.168.1.124
+Source Port: 5353
+Payload: IP / UDP / mDNS Qry b'_233637DE._sub._googlecast._...
+Protocol: TCP
+Source IP: 20.192.44.80
+Source Port: 443
+Payload: IP / TCP 20.192.44.80:https > 192.168.1.104:54703 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 54703
+Payload: IP / TCP 192.168.1.104:54703 > 20.192.44.80:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 54756
+Payload: IP / TCP 192.168.1.104:54756 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 35.193.143.25
+Source Port: 443
+Payload: IP / TCP 35.193.143.25:https > 192.168.1.104:54756...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 54756
+Payload: IP / TCP 192.168.1.104:54756 > 35.193.143.25:https...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 104.208.16.90
+Source Port: 443
+Payload: IP / TCP 104.208.16.90:https > 192.168.1.104:56740...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 13.107.42.12
+Source Port: 443
+Payload: IP / TCP 13.107.42.12:https > 192.168.1.104:56785 ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 56785
+Payload: IP / TCP 192.168.1.104:56785 > 13.107.42.12:https ...
+Protocol: TCP
+Source IP: 192.168.1.104
+Source Port: 54745
+Payload: IP / TCP 192.168.1.104:54745 > 20.192.44.80:https ...
+Protocol: TCP
+Source IP: 20.192.44.80
+Source Port: 443
+Payload: IP / TCP 20.192.44.80:https > 192.168.1.104:54745 ...
